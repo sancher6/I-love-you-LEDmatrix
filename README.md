@@ -11,3 +11,6 @@ Arduino Project modified to display moving text "I :heart: U" across a matrix of
 ![alt text](https://github.com/sancher6/I-love-you-LEDmatrix/blob/master/figures/hwConnection.JPG)
 
 * Upload the Arduino program to the Arduino
+* That's All! 
+
+## End Result: 
