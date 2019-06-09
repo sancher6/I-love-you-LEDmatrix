@@ -2,12 +2,7 @@
 Arduino Project modified to display moving text "I :heart: U" across a matrix of LEDs.
 
 ## What You'll Need: 
-* Arduino Uno 
-* About 30 wires
-* 8x8 Arduino LED array
-* Breadboard/ Prototyping Board
-* Ardunio USB to Serial Cable for power
-* Arduino IDE 
+![alt text](https://github.com/sancher6/I-love-you-LEDmatrix/blob/master/figures/componentList.JPG)
 
 ## Get Started: 
 * First clone the github repository
